@@ -9,6 +9,6 @@ export default function Header() {
             />
             <h2 className="header--title">Meme Generator</h2>
             
-        </header>
+        </header> 
     )
 }
